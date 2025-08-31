@@ -17,7 +17,7 @@ form {margin-top: 0px; margin-bottom: 0px;}
 .listalogop {-ms-flex: auto;flex: auto; align-self: center; text-align: right;padding-right:25px;}
 .listalogop a {padding-left:23px;}
 .pridati {background-color: #FFD9BF;border: 1px solid #E4C2AB; padding:5px; border-radius: 3px;}
-.listah {background-color: #FF6600; margin: 3px; border: 1px solid #BF4C00; padding: 2px;border-radius: 3px;}
+.listah {background-color: #FF6600; margin: 3px; border: 1px solid #BF4C00; padding: 2px;border-radius: 3px; position: fixed;}
 .flexmain {display: -webkit-box;display: -moz-box;display: -ms-flexbox;display: -webkit-flex;display: flex;}
 .menuleft {padding-right:10px;margin: 10px;width:200px;border-right: 1px dashed #bbbbbb;}
 .maincontent {margin:10px 10px 5px 3px;-ms-flex: 1;flex: 1;}
@@ -98,4 +98,5 @@ form {margin-top: 0px; margin-bottom: 0px;}
 .imgv {max-width: 100%; height: auto;}
 #overlay {display: none;}
 #overlay div {background-color: #fff;border:1px solid #dddddd;padding:15px;border-radius: 3px;}
+
 
