@@ -10,7 +10,7 @@ h1 {font-size: 15px;font-weight: bold;margin:3px 0px 3px 3px;}
 .nadpiskategorie {font-size: 12px;font-weight: bold;margin:0px;display: inline;}
 form {margin-top: 0px; margin-bottom: 0px;}
 .sirka {max-width:1010px;margin: 0 auto;}
-.listalogor {padding: 18px 0px 18px 0px;display: -webkit-box;display: -moz-box;display: -ms-flexbox;display: -webkit-flex;display: flex;}
+.listalogor {padding: 18px 0px 18px 0px;display: -webkit-box;display: -moz-box;display: -ms-flexbox;display: -webkit-flex;display: flex; position: fixed; }
 .listalogol {width:215px;padding-left:5px;}
 .listalogom {-ms-flex: auto;flex: auto;align-self: center;}
 @media (max-width: 995px){.listalogom{display: none;}}
@@ -98,3 +98,4 @@ form {margin-top: 0px; margin-bottom: 0px;}
 .imgv {max-width: 100%; height: auto;}
 #overlay {display: none;}
 #overlay div {background-color: #fff;border:1px solid #dddddd;padding:15px;border-radius: 3px;}
+
