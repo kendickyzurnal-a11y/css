@@ -1604,6 +1604,7 @@ a:hover .icon-cross-v5:after {
   width: 190px;
   height: 20px;
   margin-right: 10px;
+  border-radius: 10px;
 }
 .search-outer .b-wrap {
   margin-right: 10px;
